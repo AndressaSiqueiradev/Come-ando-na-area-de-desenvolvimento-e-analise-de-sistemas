@@ -106,3 +106,7 @@ Porém com um tempo os portes da rede ne energia elétrica foram supercarregadas
 Cabeamentos de fibra óptica de várias empresas começaram a poluir esses postes.
 
 Aqui vai um esquema de um projeto sobre uma nova rede, a rede por sinal de frequência via wireless afim de proporcionar menos poluição da rede elétrica e que impactam passivamente nos aspectos sócios/ambientais da nossa comunidade, mais limpeza do nosso ambiente e menos poluição.
+
+
+
+https://www.linkedin.com/in/andressasiqueiradev
